@@ -1,0 +1,31 @@
+# Bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE configuration
+.idea/
+.vscode/
+
+# Database files
+*.db
+*.sqlite
+
+# Secret keys/credentials
+config.ini
+secrets.json
+
+# Uploads directory
+media/uploads/
